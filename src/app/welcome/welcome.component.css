@@ -1,0 +1,14 @@
+.section {
+    padding-top: 10em;
+    padding-bottom: 10em;
+}
+#section-1 {
+    background-color: goldenrod;
+}
+#section-2 {
+    background-color: gray;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 8em;
+}

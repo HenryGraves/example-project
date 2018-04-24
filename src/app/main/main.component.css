@@ -1,0 +1,10 @@
+.section {
+    padding-top: 10em;
+    padding-bottom: 10em;
+    background-color: red;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 8em;
+}
